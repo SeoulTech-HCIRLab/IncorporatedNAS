@@ -39,11 +39,6 @@ Please check our paper for more details.
 * PyTorch >= 1.5, Python >= 3.7
 * By default, ImageNet dataset is stored under \~/data/imagenet; CIFAR-10/CIFAR-100 is stored under \~/data/pytorch\_cifar10 or \~/data/pytorch\_cifar100
 
-
-### Evaluate pre-trained models on ImageNet and CIFAR-10/100
-
-To evaluate the pre-trained model on ImageNet using GPU 0:
-
 ### Searching on CIFAR-10/100
 Searching for CIFAR-10/100 models with budget params < 1M , using different zero-shot proxies:
 
