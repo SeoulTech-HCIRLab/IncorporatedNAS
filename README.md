@@ -56,7 +56,7 @@ scripts/Zen_NAS_cifar_params1M.sh
 
 ### Searching on ImageNet
 
-Searching for ImageNet models, with latency budget on NVIDIA V100 from 0.1 ms/image to 1.2 ms/image at batch size 64 FP16:
+Searching for ImageNet models:
 '''bash
 scripts/CombineNAS_ImageNet_flops400M.sh
 scripts/CombineNAS_ImageNet_flops600M.sh
