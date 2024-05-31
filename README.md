@@ -42,7 +42,8 @@ Please check our paper for more details.
 ### Searching on CIFAR-10/100
 Searching for CIFAR-10/100 models with budget params < 1M , using different zero-shot proxies:
 
-'''bash
+```bash
+
 scripts/Combine_NAS_cifar_params1M.sh
 scripts/Flops_NAS_cifar_params1M.sh
 scripts/GradNorm_NAS_cifar_params1M.sh
@@ -52,15 +53,16 @@ scripts/Random_NAS_cifar_params1M.sh
 scripts/Syncflow_NAS_cifar_params1M.sh
 scripts/TE_NAS_cifar_params1M.sh
 scripts/Zen_NAS_cifar_params1M.sh
-'''
+
+```
 
 ### Searching on ImageNet
 
 Searching for ImageNet models:
-'''bash
+```bash
 scripts/CombineNAS_ImageNet_flops400M.sh
 scripts/CombineNAS_ImageNet_flops600M.sh
-'''
+```
 
 ## Open Source
 
