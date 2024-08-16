@@ -65,7 +65,7 @@ scripts/CombineNAS_ImageNet_flops400M.sh
 scripts/CombineNAS_ImageNet_flops600M.sh
 ```
 ### Pretrain models
-All our pretrain-models [here!](https://drive.google.com/drive/folders/1DR5CLmI4pqhrwcyQ0pE2n8s3DjHiGbUs?usp=sharing)
+All our pre-train EZenNet models [here!](https://drive.google.com/drive/folders/1DR5CLmI4pqhrwcyQ0pE2n8s3DjHiGbUs?usp=sharing)
 
 ## Open Source
 
