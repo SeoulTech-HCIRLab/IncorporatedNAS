@@ -5,6 +5,7 @@
     - [System Requirements](#system-requirements)
     - [Searching on CIFAR-10/100](#searching-on-cifar-10100)
     - [Searching on ImageNet](#searching-on-imagenet)
+    - [Pretrain models](#Pretrain-models)
   - [Open Source](#open-source)
 
 
