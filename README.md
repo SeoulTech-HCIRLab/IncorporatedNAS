@@ -20,7 +20,7 @@ We use the ResNet-like search space and search for models within parameter budge
 
 | proxy              | CIFAR-10   | CIFAR-100  |
 |--------------------|------------|------------|
-| Incorporated-NAS-l | **97.0%**  | **80.44%** |
+| Incorporated-NAS-l | **96.66%**  | **80.67%** |
 | Incorporated-NAS-s | **96.86%** | **81.1%**  |
 | Zen-NAS            | 96.2%      | 80.1%      |
 | FLOPs              | 93.1%      | 64.7%      |
@@ -63,6 +63,8 @@ Searching for ImageNet models:
 scripts/CombineNAS_ImageNet_flops400M.sh
 scripts/CombineNAS_ImageNet_flops600M.sh
 ```
+### Pretrain models
+All our pretrain-models [here!](https://drive.google.com/drive/folders/1DR5CLmI4pqhrwcyQ0pE2n8s3DjHiGbUs?usp=sharing)
 
 ## Open Source
 
