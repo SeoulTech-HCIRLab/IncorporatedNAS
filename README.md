@@ -80,4 +80,20 @@ https://github.com/BayesWatch/nas-without-training
 https://github.com/rwightman/gen-efficientnet-pytorch
 https://pytorch.org/vision/0.8/_modules/torchvision/models/resnet.html
 ```
+### Citing
+```text
+@Article{electronics13163325,
+AUTHOR = {Nguyen, Thi-Trang and Han, Ji-Hyeong},
+TITLE = {Zero-Shot Proxy with Incorporated-Score for Lightweight Deep Neural Architecture Search},
+JOURNAL = {Electronics},
+VOLUME = {13},
+YEAR = {2024},
+NUMBER = {16},
+ARTICLE-NUMBER = {3325},
+URL = {https://www.mdpi.com/2079-9292/13/16/3325},
+ISSN = {2079-9292},
+DOI = {10.3390/electronics13163325}
+}
+```
+
 
