@@ -11,12 +11,12 @@
 
 # Incorporated-NAS: An efficient Zero-shot proxy for light-weight NAS
 
-This source code is implementation of Incorporated-NAS.
+This source code is the implementation of Incorporated-NAS. Our paper is published in the Electronics
 
 
 ## Compare to Other Zero-Shot NAS Proxies on CIFAR-10/100
 
-We use the ResNet-like search space and search for models within parameter budget 1M. All models are searched by the same evolutionary strategy, trained on CIFAR-10/100 for 1440 epochs with auto-augmentation, cosine learning rate decay, weight decay 5e-4. We report the top-1 accuracies in the following table:
+We use the ResNet-like search space and search for models within the parameter budget 1M. All models are searched by the same evolutionary strategy, trained on CIFAR-10/100 for 1440 epochs with auto-augmentation, cosine learning rate decay, weight decay 5e-4. We report the top-1 accuracies in the following table:
 
 
 | proxy              | CIFAR-10   | CIFAR-100  |
@@ -81,6 +81,7 @@ https://github.com/rwightman/gen-efficientnet-pytorch
 https://pytorch.org/vision/0.8/_modules/torchvision/models/resnet.html
 ```
 ### Citing
+If you find this work useful, please cite the following paper:
 ```text
 @Article{electronics13163325,
 AUTHOR = {Nguyen, Thi-Trang and Han, Ji-Hyeong},
